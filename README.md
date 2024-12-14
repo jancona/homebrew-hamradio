@@ -1,4 +1,4 @@
-# Jancona Hamradio
+# Homebrew Ham Radio Formulae and Casks
 
 ## How do I install these formulae?
 
